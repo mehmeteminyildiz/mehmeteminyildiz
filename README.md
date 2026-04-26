@@ -33,5 +33,5 @@ Currently @ [Mode Mobile](https://modemobile.com) — working on AppLock Pro & G
 
 ### 📬 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/mehmeteminyildiz](https://www.linkedin.com/in/yildizmehmetemin/))
-[![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=flat&logo=google-play&logoColor=white)]([https://play.google.com/store/apps/developer?id=ZOO](https://play.google.com/store/apps/developer?id=Zoo+Applications))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yildizmehmetemin/)
+[![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Zoo+Applications)
