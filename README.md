@@ -24,9 +24,13 @@ Currently @ [Mode Mobile](https://modemobile.com) — working on AppLock Pro & G
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehmeteminyildiz&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmeteminyildiz&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mehmeteminyildiz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmeteminyildiz&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mehmeteminyildiz&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
